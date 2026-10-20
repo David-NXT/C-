@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\HR\\HR.csproj": {}
+    "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\src\\Services\\HR\\HR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\HR\\HR.csproj": {
+    "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\src\\Services\\HR\\HR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\HR\\HR.csproj",
+        "projectUniqueName": "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\src\\Services\\HR\\HR.csproj",
         "projectName": "HR",
-        "projectPath": "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\HR\\HR.csproj",
+        "projectPath": "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\src\\Services\\HR\\HR.csproj",
         "packagesPath": "C:\\Users\\David-NXT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\HR\\obj\\",
+        "outputPath": "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\src\\Services\\HR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

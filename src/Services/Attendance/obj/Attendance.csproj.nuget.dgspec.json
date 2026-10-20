@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\Attendance\\Attendance.csproj": {}
+    "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\src\\Services\\Attendance\\Attendance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\Attendance\\Attendance.csproj": {
+    "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\src\\Services\\Attendance\\Attendance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\Attendance\\Attendance.csproj",
+        "projectUniqueName": "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\src\\Services\\Attendance\\Attendance.csproj",
         "projectName": "Attendance",
-        "projectPath": "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\Attendance\\Attendance.csproj",
+        "projectPath": "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\src\\Services\\Attendance\\Attendance.csproj",
         "packagesPath": "C:\\Users\\David-NXT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\Attendance\\obj\\",
+        "outputPath": "C:\\Users\\David-NXT\\Desktop\\SGU\\Nam3\\C#\\C-\\src\\Services\\Attendance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
